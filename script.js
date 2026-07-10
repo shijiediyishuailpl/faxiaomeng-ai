@@ -33,7 +33,7 @@ const OPEN_IMAGE = "faxiang_open.png";
  *
  * 现在先留空。
  */
-const TRANSCRIBE_API_URL = "";
+const TRANSCRIBE_API_URL = "https://faxiaomeng-asr.511467750.workers.dev/transcribe";
 
 
 // 是否在语音识别成功后自动发送问题
